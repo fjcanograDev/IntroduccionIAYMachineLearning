@@ -19,4 +19,5 @@ Pequeño repositorio en el que voy a introducirme en el mundo de la IA para apre
 - Role Prompting.
 - Iteración.
 - Prompt engineering avanzado.
+https://www.enter.co/especiales/dev/como-escribir-el-prompt-perfecto-para-obtener-respuestas-de-calidad-con-ia-segun-el-presidente-de-openai/
 - Estrategias.
